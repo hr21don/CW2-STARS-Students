@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=shuttle
+comment0.text=\ \r\n\ \ \ HR\ (\ Helitha\ Rupasinghe\ 18001953\ )\r\n\ \ \ V1\ (\ 10/04/2020)\r\n\ \ \ \r\n\ \ \ The\ class\ Shuttle\ connects\ two\ worlds\ at\ the\ resort.\ \ \ \r\n\ \ \ \r\n
+comment1.params=j_c\ S_W\ D_W
+comment1.target=shuttle(java.lang.String,\ World,\ World)
+comment10.params=c
+comment10.target=java.lang.String\ Travel(Card)
+comment2.params=
+comment2.target=java.lang.String\ getJourney_code()
+comment3.params=j_c
+comment3.target=void\ setJourney_code(java.lang.String)
+comment4.params=
+comment4.target=World\ getSource_World()
+comment5.params=S_W
+comment5.target=void\ setSource_World(World)
+comment6.params=
+comment6.target=World\ getDestination_World()
+comment7.params=D_W
+comment7.target=void\ setDestination_World(World)
+comment8.params=
+comment8.target=java.lang.String\ toString()
+comment9.params=c
+comment9.target=boolean\ Can_Travel(Card)
+numComments=11

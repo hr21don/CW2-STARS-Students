@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Runner
+comment0.text=\r\n\r\n\ The\ class\ Runner\ runs\ the\ methid\ runUI\ from\ the\ class\ ResortUI\ declared\ here\ in\ the\ main\ method.\ \r\n\ @H_R\ (H_R\ 18001953)\r\n\ @V1\ (10/4/2020)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
