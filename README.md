@@ -45,8 +45,7 @@ The class Runner runs the main UI from the class ResortUI declared here.
 
 Your Options to start the project:
 
-* Create one more more runner object to call individual methods. 
-
+* Create one more more runner object. 
 * Start the UI for the Stars the system by running 'void main(string[] args)'. 
 
 
