@@ -1,5 +1,4 @@
 # CW2-STARS-Students
-In Pure Java:
 This project provides java code for the implementation of the STARS system. 
 
 ## Background
