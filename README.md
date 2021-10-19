@@ -39,6 +39,19 @@ Refusal to enter the shuttle, because one or more of the above conditions are fa
 
 <img width="221" alt="Capture" src="https://user-images.githubusercontent.com/91548582/137923782-fd80db14-4719-4b38-ad20-ff1b5d3ae8d3.PNG">
 
+## How to start project?
+
+![Picture1](https://user-images.githubusercontent.com/91548582/137952081-366ad990-4a87-415f-afc1-53a7296b5279.png)
+
+The class Runner runs the main UI from the class ResortUI declared here. 
+
+Your Options to start the project:
+
+* Create one more more runner object to call individual methods. 
+
+* Start the UI for the Stars the system by running 'void main(string[] args)'. 
+
+
 ------------------------------------------------------------------------
 This is the project README file. Here, you should describe your project.
 Tell the reader (someone who does not know anything about this project)
