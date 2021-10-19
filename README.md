@@ -41,8 +41,6 @@ Refusal to enter the shuttle, because one or more of the above conditions are fa
 
 ## How to start this project?
 
-![Picture1](https://user-images.githubusercontent.com/91548582/137952972-b74876cd-832e-488a-adc6-de80bec8ad92.png)
-
 The class Runner runs the main UI from the class ResortUI declared here. 
 
 Your Options to start the project:
